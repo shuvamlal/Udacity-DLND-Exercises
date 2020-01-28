@@ -42,3 +42,8 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 * [Intro to TensorFlow](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/tensorflow/intro-to-tensorflow): Starting building neural networks with TensorFlow.
 * [Keras](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/keras): Learn to build neural networks and convolutional neural networks with Keras.
+
+### Honor Code
+
+ This Repository created just to show off my works. You are not eligible to **Copy** any **Solution Codes**.</br>
+ This Repository shows respect and values the [Udacity Honor Code](https://www.udacity.com/legal/en-us/community-guidelines)
