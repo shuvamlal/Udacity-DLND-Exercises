@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 tensorflow==1.15.0
+=======
+
+tensorflow==1.0.0
+>>>>>>> e4eb004914da9f45e195e6464505f0f330df2f32
